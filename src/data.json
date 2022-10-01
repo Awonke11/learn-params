@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Title one",
+      "author": "Awonke Mnotoza",
+      "description": "I love coding, it is so fun to code"
+    },
+    {
+      "id": 2,
+      "title": "Title two",
+      "author": "Mihle Makapela",
+      "description": "I am going to learn coding and will become good at it"
+    },
+    {
+      "id": 3,
+      "title": "Title three",
+      "author": "Mora Katywa",
+      "description": "I do not know what is going on with coding"
+    }
+]
